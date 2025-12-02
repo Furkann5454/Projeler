@@ -1,0 +1,32 @@
+9
+12
+19
+23
+28
+34
+37
+45
+46
+55
+56
+67
+78
+89
+Adim sayisi bubblesort :91
+Sure bubblesort0.00019311904907226562
+9
+12
+19
+23
+28
+34
+37
+45
+46
+55
+56
+67
+78
+89
+Adim sayisi selectionsort :91
+Sure selectionsort :7.3909759521484375e-06
